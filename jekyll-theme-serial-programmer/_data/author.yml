@@ -1,0 +1,26 @@
+name: Raphael J. Sandor
+dp:  "/assets/photos/me.jpg"
+description: 
+  <h2> Full Stack Software Engineer </h2>
+  <p>
+   Staff Software Engineer - Raft LLC
+  </p>
+  <p>
+   MS Computer Science Candidate - ODU
+  </p>
+  </br>
+  <h3>About Me&#58; </h3>
+  <p>
+    Linux fanatic that's been passionately solving problems with technology for the past 13 years.
+  </p>
+  
+email: r-sandor@helloworld.xyz 
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/raphael-sandor
+  - title: github
+    url: https://github.com/R-Sandor
+  - title: twitter
+    url: https://x.com/codefulDev
+  - title: email
+    url: mailto:r-sandor@helloworld.xyz
