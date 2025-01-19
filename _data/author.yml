@@ -10,11 +10,18 @@ description: <h2> Full Stack Software Engineer </h2>
   </br>
   <h3>About Me&#58; </h3>
   <p>
-  Linux fanatic that's been passionately solving problems with technology for the past 13 years.
+    Linux fanatic that's been passionately solving problems with technology for the past 13 years.
+    Background in writing applications in C++, Java, Golang, Typescript, Javascript, CSS and HTLM.
+    Building on Frameworks such as ReactJS, Vue3, and Spring Boot.
+    The area that I find myself excelling at is piecing all the components together, 
+    from Kubernetes to deploy on, docker to ship/containerize, and lastly to the data that 
+    makes any of it meaningful.
   </p>
 
 email: r-sandor@helloworld.xyz
 contact:
+  - title: resumé
+    url: /assets/docs/Raphael_J_Sandor_Resume.pdf
   - title: linkedin
     url: https://www.linkedin.com/in/raphael-sandor
   - title: github
@@ -23,5 +30,4 @@ contact:
     url: https://x.com/codefulDev
   - title: email
     url: mailto:r-sandor@helloworld.xyz
-  - title: resumé
-    url: /assets/docs/Raphael_J_Sandor_Resume.pdf
+  
